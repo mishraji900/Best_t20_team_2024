@@ -45,7 +45,7 @@ This project aims to predict the best playing 11 for the ICC Men's T20 2024 Worl
 - **Impact and Contribution:** Contributing to the advancement of cricket analytics and data-driven decision-making in men's cricket.
 #### Dashboard Openers Page
 
-![Dashboard Openers Page](https://github.com/mishraji900/Sales-Dashboard/blob/main/1%20-%20key%20Insights.PNG)
+![Dashboard Openers Page](https://github.com/mishraji900/Best_t20_team_2024/blob/main/Screenshot%202024-07-14%20041834.png)
 
 #### Dashboard Middle Order
 
